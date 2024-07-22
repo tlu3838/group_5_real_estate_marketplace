@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "835365982101",
+    "project_id": "group-5-real-estate-market",
+    "storage_bucket": "group-5-real-estate-market.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:835365982101:android:47df1d27b9718c724cf09c",
+        "android_client_info": {
+          "package_name": "com.example.real_estate_marketplace"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBOOD72xQjjbldv-U5E4GfUmEl7TfkTocs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
